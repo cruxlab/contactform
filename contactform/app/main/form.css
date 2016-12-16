@@ -1,0 +1,18 @@
+form {
+    width: 500px;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group input:not([type=submit]) {
+    flex: 1;
+    display: block;
+}
+
+.form-group textarea {
+    flex: 1; /* fluid height */
+    display: block; /* IE fix */
+}
