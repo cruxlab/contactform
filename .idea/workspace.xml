@@ -72,21 +72,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="form.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="form.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contactform/app/main/form.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+            <state relative-caret-position="446">
+              <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="form.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contactform/app/main/form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="842">
+              <caret line="43" column="6" lean-forward="true" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -140,8 +140,8 @@
         <option value="$PROJECT_DIR$/contactform/app/app.component.ts" />
         <option value="$PROJECT_DIR$/contactform/app/app.module.ts" />
         <option value="$PROJECT_DIR$/contactform/index.html" />
-        <option value="$PROJECT_DIR$/contactform/app/main/form.css" />
         <option value="$PROJECT_DIR$/contactform/app/main/form.html" />
+        <option value="$PROJECT_DIR$/contactform/app/main/form.css" />
       </list>
     </option>
   </component>
@@ -491,12 +491,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1481881299551</updated>
-      <workItem from="1481881307457" duration="15317000" />
+      <workItem from="1481881307457" duration="20684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15317000" />
+    <option name="totallyTimeSpent" value="20684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3226" height="1746" extended-state="6" />
@@ -624,18 +624,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contactform/app/main/form.css">
+    <entry file="file://$PROJECT_DIR$/contactform/app/main/form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        <state relative-caret-position="842">
+          <caret line="43" column="6" lean-forward="true" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contactform/app/main/form.html">
+    <entry file="file://$PROJECT_DIR$/contactform/app/main/form.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="446">
+          <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
           <folding />
         </state>
       </provider>
